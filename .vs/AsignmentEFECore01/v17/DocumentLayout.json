@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Mahmoud Rayan\\source\\repos\\AsignmentEFECore01\\",
+  "WorkspaceRootPath": "D:\\route backend .net\\Week14\\Session01 EFCore\\Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{415C52BD-4001-48E2-AD5E-ABB2775698A7}|AsignmentEFECore01\\AsignmentEFECore01.csproj|c:\\users\\mahmoud rayan\\source\\repos\\asignmentefecore01\\asignmentefecore01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F83A9EBE-FC1F-4740-BC94-0D21DE520A99}|Demo\\Demo.csproj|d:\\route backend .net\\week14\\session01 efcore\\solution\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83A9EBE-FC1F-4740-BC94-0D21DE520A99}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415C52BD-4001-48E2-AD5E-ABB2775698A7}|AsignmentEFECore01\\AsignmentEFECore01.csproj|d:\\route backend .net\\week14\\session01 efcore\\solution\\asignmentefecore01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{415C52BD-4001-48E2-AD5E-ABB2775698A7}|AsignmentEFECore01\\AsignmentEFECore01.csproj|solutionrelative:asignmentefecore01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +28,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Mahmoud Rayan\\source\\repos\\AsignmentEFECore01\\AsignmentEFECore01\\Program.cs",
+              "DocumentMoniker": "D:\\route backend .net\\Week14\\Session01 EFCore\\Solution\\Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Demo\\Program.cs",
+              "ToolTip": "D:\\route backend .net\\Week14\\Session01 EFCore\\Solution\\Demo\\Program.cs",
+              "RelativeToolTip": "Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T07:34:04.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\route backend .net\\Week14\\Session01 EFCore\\Solution\\AsignmentEFECore01\\Program.cs",
               "RelativeDocumentMoniker": "AsignmentEFECore01\\Program.cs",
-              "ToolTip": "C:\\Users\\Mahmoud Rayan\\source\\repos\\AsignmentEFECore01\\AsignmentEFECore01\\Program.cs",
+              "ToolTip": "D:\\route backend .net\\Week14\\Session01 EFCore\\Solution\\AsignmentEFECore01\\Program.cs",
               "RelativeToolTip": "AsignmentEFECore01\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
