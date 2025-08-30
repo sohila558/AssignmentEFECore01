@@ -9,9 +9,9 @@ using System.Threading.Tasks;
 namespace Demo.Entities
 {
     // EF Core Support 4 Ways For Mapping Calsses in Database : [ Table, View, Function ]
-    // 1. By Convintion [ Default Behavior ]
+    // 1. By Convintion [ Default Behavior ] 
     // 2. Data Annotation [ Set Of Attributes Used for Data Validation ] 
-    // 3. Fluent APIs
+    // 3. Fluent APIs 
     // 4. Class Configration
 
     // Entity
